@@ -38,3 +38,26 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+Number and name of feature: feature 1
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 9:30
+
+Finish time: 10:15
+
+Actual time needed to complete: 45 min
+
+////////////////////////////////////////////////////////
+
+Number and name of feature: feature 
+
+Estimate of time needed to complete: 45 mins
+
+Start time: 10:15
+
+Finish time: 
+
+Actual time needed to complete: 
